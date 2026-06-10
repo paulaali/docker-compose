@@ -347,21 +347,3 @@ The `-v` flag removes the named MongoDB volume.
 
 Yes. Each player gets a unique session ID, so their quiz progress is tracked independently.
 
-## Repository
-
-Main repo:
-
-```text
-https://github.com/samuel-nartey/devops-labs
-```
-
-Project path:
-
-```text
-Docker & Containers/Running Your First Container/running docker compose
-```
-
-## Author
-
-Built by Samuel Nartey as a beginner-friendly gateway into Docker and container concepts.
-
